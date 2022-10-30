@@ -3,7 +3,7 @@
 ## Description
 
 The study guide was made to introduce the bootcamp students to the most basic coding principles and langauges such as HTML, CSS, GiT, and Javascript
-
+It is a great help !
 ## Installation
 
 N/A
